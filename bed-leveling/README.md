@@ -1,7 +1,7 @@
 # Bed Leveling
 
 These files were originally created by **Lukee Varga** (from the [Cetus3D Users Facebook Group](https://www.facebook.com/groups/1122442167791001/)) and the original download link is [here](http://www.mediafire.com/file/24maoajyyv3deby/Heated+bed+4+corner+calibration.rar
-). The files also include support people using 3mm aluminium bed or glass on top of the heated bed (see inside `stl > +3mm`). 
+). The files also include support for people using 3mm aluminium bed or glass on top of the heated bed (see inside `stl > +3mm`). 
 
 ## How to print:
 
