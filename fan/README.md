@@ -9,6 +9,11 @@ Allows you to stop the air flow to the part being printed. This is useful when p
 * Use a filament that can withstand high temperatures
 * Use rafts and supports 
 
+## Materials Needed:
+
+* M3x25 Screw - 2x
+* M3x30 Screw - 2x
+
 ## Putting it together
 
 *  Place between the fan and the original fan duct
